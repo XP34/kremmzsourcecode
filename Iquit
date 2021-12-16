@@ -339,7 +339,7 @@ local L_41_ = L_1555_:CreateSector("Teleports")
 local L_42_ = L_34_:CreateSector("Auto-Buy", "Right")
 local L_43_ = L_33_:CreateSector("Silent Aim") 
 local L_44_ = L_9999999999_:CreateSector("Credits to CryptHook")
-local L_44_ = L_9999999999_:CreateSector("Made by zxql#4767")
+local L_44_ = L_9999999999_:CreateSector("Made by kremmz#0001")
 
 -- toggles, buttons, textboxes, dropdowns
 local L_46_ = L_35_:AddToggle("Aimbot", false, function(L_122_arg0)
